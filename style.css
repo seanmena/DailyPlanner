@@ -1,0 +1,20 @@
+.section {
+    margin: auto;
+    width: 75%;
+}
+
+button {
+    float: right;
+}
+
+.past-text {
+    color: red;
+}
+
+.current-text {
+    color: green;
+}
+
+.future-text {
+    color: blue;
+}
